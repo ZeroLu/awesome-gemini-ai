@@ -5,7 +5,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-> A curated collection of the **best Gemini prompts**, use cases, and resources for Google's Gemini 1.5 Pro, Flash, and Ultra models.
+> A curated collection of the **best Gemini prompts**, use cases, and resources for Google's Gemini 3 Pro, Flash, and Ultra models.
 
 This repository focuses on **high-performance prompts** sourced from X (Twitter), Reddit, and top prompt engineers. Whether you are looking for **Gemini coding prompts**, **UI/UX design generation**, or creative experiments, you will find the most effective inputs here to unlock the full potential of the 1M+ token context window.
 
@@ -196,7 +196,7 @@ Gemini is excellent at handling multilingual coding requests.
 
 ## 5. Resources
 
-- [Google AI Studio](https://aistudio.google.com/) - The best place to test these prompts with Gemini 1.5 Pro / Flash.
+- [Google AI Studio](https://aistudio.google.com/) - The best place to test these prompts with Gemini 3 Pro / Flash.
 - [DeepMind Gemini Docs](https://deepmind.google/technologies/gemini/) - Official documentation.
 
 ## 6. Contributing
