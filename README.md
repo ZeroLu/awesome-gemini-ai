@@ -1,7 +1,7 @@
 [Last updated on 2025.11.22]
 # Awesome Gemini AI ♊️
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Gemini](https://img.shields.io/badge/Google%20DeepMind-Gemini-blue?style=flat-square)](https://deepmind.google/technologies/gemini/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) [![GitHub stars](https://img.shields.io/github/stars/ZeroLu/awesome-gemini-ai?style=social)](https://github.com/ZeroLu/awesome-gemini-ai/stargazers)
 
 > A curated collection of the **best Gemini prompts**, use cases, and resources for Google's Gemini 3 Pro, Flash, and Ultra models.
 
