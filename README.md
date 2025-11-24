@@ -7,6 +7,10 @@
 
 This repository focuses on **high-performance prompts** sourced from X (Twitter), Reddit, and top prompt engineers. Whether you are looking for **Gemini coding prompts**, **UI/UX design generation**, or creative experiments, you will find the most effective inputs here to unlock the full potential of the 1M+ token context window.
 
+## Sponsor: [thesorawatermarkremover.com](https://thesorawatermarkremover.com)
+[<img width="600" height="265" alt="image" src="https://github.com/user-attachments/assets/b087445c-d3ad-4152-8e28-33a5ca49d4b5" />](https://thesorawatermarkremover.com)
+
+
 ## 📖 Table of Contents
 
 1. [Web Development & Coding](#1-web-development--coding)
