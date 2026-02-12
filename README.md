@@ -1064,6 +1064,7 @@ OUTPUT_COMPLETE_WORKFLOW:
 
 - [Google AI Studio](https://aistudio.google.com/) - The best place to test these prompts with Gemini 3 Pro / Flash.
 - [DeepMind Gemini Docs](https://deepmind.google/technologies/gemini/) - Official documentation.
+- [Taskade](https://taskade.com) - AI-powered workspace with Google Gemini support. Custom AI agents, multi-model orchestration, and workflow automation.
 
 ## 7. Contributing
 
