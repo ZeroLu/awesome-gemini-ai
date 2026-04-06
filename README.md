@@ -7,6 +7,7 @@
 
 This repository focuses on **high-performance prompts** sourced from X (Twitter), Reddit, and top prompt engineers. Whether you are looking for **Gemini coding prompts**, **UI/UX design generation**, or creative experiments, you will find the most effective inputs here to unlock the full potential of the 1M+ token context window.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for multi-model orchestration (Claude, Gemini, GPT). MIT licensed.
 ### Consider subscribing to [this free newsletter](https://zerolu.substack.com/p/hello-there) if you want more high quality content like this.
 
 ## Sponsor: [thesorawatermarkremover.com](https://thesorawatermarkremover.com)
