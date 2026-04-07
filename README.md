@@ -1064,6 +1064,7 @@ OUTPUT_COMPLETE_WORKFLOW:
 
 - [Google AI Studio](https://aistudio.google.com/) - The best place to test these prompts with Gemini 3 Pro / Flash.
 - [DeepMind Gemini Docs](https://deepmind.google/technologies/gemini/) - Official documentation.
+- [RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for AI skills and personas built on OpenClaw.
 
 ## 7. Contributing
 
