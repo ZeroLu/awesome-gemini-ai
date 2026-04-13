@@ -699,6 +699,7 @@ Based on your description, I'll:
 - Individual emails to each person?
 - One email with everyone CC'd?
 - A Slack message to a channel?
+- [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 Small detail, big difference in the workflow."
 Output: Complete operation inventory with node types
 
