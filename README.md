@@ -132,6 +132,7 @@ Import all necessary files and libraries:
 
 ---
 
+- [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril): Open-source agentic software factory with an amazing UI that handles parallel Git worktrees for you, complete with programmatic verifications and fast review loops.
 ## 2. UI/UX & Design
 
 Prompts focused on creating aesthetically pleasing interfaces, shaders, and CSS masterpieces.
