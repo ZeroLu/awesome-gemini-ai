@@ -1064,6 +1064,7 @@ OUTPUT_COMPLETE_WORKFLOW:
 
 - [Google AI Studio](https://aistudio.google.com/) - The best place to test these prompts with Gemini 3 Pro / Flash.
 - [DeepMind Gemini Docs](https://deepmind.google/technologies/gemini/) - Official documentation.
+- [zerog](https://github.com/adalenv/zerog) - Multi-account quota manager and auto-failover wrapper for Google Antigravity CLI (agy) and Gemini APIs.
 
 ## 7. Contributing
 
