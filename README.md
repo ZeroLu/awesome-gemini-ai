@@ -1085,3 +1085,5 @@ Please ensure you include the **Source** (link to the original creator) to give 
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=ZeroLu/awesome-gemini-ai&type=Date" />
  </picture>
 </a>
+
+- **[QWK ($QWK) Autonomous MEV & Resource Escrow Agent / Plugin / MCP](https://github.com/chase-tqg/QWIK-MEV-Core)** - Autonomous Web3 DeFi & MEV infrastructure agent, OpenAPI 3.1.0 plugin (`ai-plugin.json`), `SKILL.md`, EIP-1153 transient-storage `AtomicArb.sol`, 0%-fee Morpho Blue flash-loan callback (`QWKZeroCapitalMorphoArb.sol`), and MCP server (`verify_enterprise_backing`, `get_escrow_contract_details`, `generate_seed_deposit_tx`) with on-chain Merkle commitments (`0x1Cc436b4D9316ee623CFeB760C44F84c9bD9C20A`) for $400,000+ in project-reported Google Cloud, NVIDIA, and Cloudflare resources.
